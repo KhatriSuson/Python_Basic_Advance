@@ -1,0 +1,59 @@
+## Python Data Types:-
+==========>>>
+
+1. Integers(int):
+x = 5
+
+2. Floats (float):
+y = 3.14
+
+3. String (str):
+name ="John"
+
+4. Lists(list):
+fruits = ["apple", "banana", "orange"]
+
+
+5. Tuples(tuple):
+==> Ordered, Immutable collections of objects.
+
+coordinates = (3,4)
+
+6. Sets(set):
+=> Unordered collections of unique objects.
+colors = {"red", "green", "blue"}
+
+
+7. Dictionaries(dict):
+=> Unorderd collections of keys-value pairs.
+
+student = {"sid": 001, "age": 45, "sname": "John",}
+
+8. Booleans(bool):
+=> Represents 'True' or 'False' values.
+is_happy = True
+
+9. NoneType (None):
+=> Represents the absence of a value or a null value.
+
+empty_var = None
+
+10. Bytes(bytes) and Byte Arrays(bytearray):
+=> Used to represent sequences of bytes (e.g., for binary data).
+binary_data = b'\x00\x001\x002
+
+
+11. Ranges(range):
+=> Representsa sequence of numbers.
+numbers = range(1,5)
+
+
+
+12. Complex Numbers(complex):
+=> Represents complex numbers with real and imaginary parts.
+
+z = 3 + 4j
+
+
+
+
